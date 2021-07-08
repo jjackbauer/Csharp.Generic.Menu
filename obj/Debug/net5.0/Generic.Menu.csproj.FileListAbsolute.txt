@@ -1,0 +1,16 @@
+C:\Users\Ricardo\DIO\Generic.Menu\obj\Debug\net5.0\Generic.Menu.csproj.AssemblyReference.cache
+C:\Users\Ricardo\DIO\Generic.Menu\obj\Debug\net5.0\Generic.Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\DIO\Generic.Menu\obj\Debug\net5.0\Generic.Menu.AssemblyInfoInputs.cache
+C:\Users\Ricardo\DIO\Generic.Menu\obj\Debug\net5.0\Generic.Menu.AssemblyInfo.cs
+C:\Users\Ricardo\DIO\Generic.Menu\obj\Debug\net5.0\Generic.Menu.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\DIO\Generic.Menu\bin\Debug\net5.0\Generic.Menu.exe
+C:\Users\Ricardo\DIO\Generic.Menu\bin\Debug\net5.0\Generic.Menu.deps.json
+C:\Users\Ricardo\DIO\Generic.Menu\bin\Debug\net5.0\Generic.Menu.runtimeconfig.json
+C:\Users\Ricardo\DIO\Generic.Menu\bin\Debug\net5.0\Generic.Menu.runtimeconfig.dev.json
+C:\Users\Ricardo\DIO\Generic.Menu\bin\Debug\net5.0\Generic.Menu.dll
+C:\Users\Ricardo\DIO\Generic.Menu\bin\Debug\net5.0\ref\Generic.Menu.dll
+C:\Users\Ricardo\DIO\Generic.Menu\bin\Debug\net5.0\Generic.Menu.pdb
+C:\Users\Ricardo\DIO\Generic.Menu\obj\Debug\net5.0\Generic.Menu.dll
+C:\Users\Ricardo\DIO\Generic.Menu\obj\Debug\net5.0\ref\Generic.Menu.dll
+C:\Users\Ricardo\DIO\Generic.Menu\obj\Debug\net5.0\Generic.Menu.pdb
+C:\Users\Ricardo\DIO\Generic.Menu\obj\Debug\net5.0\Generic.Menu.genruntimeconfig.cache
