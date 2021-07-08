@@ -7,7 +7,7 @@ namespace Generic.Menu
         {
             Headers.Add("Generic Menu Demo");
             Headers.Add("Developed by Ricardo Medeiros");
-            Headers.Add("https://github.com/jjackbauer/DIO.series");
+            Headers.Add("https://github.com/jjackbauer/Csharp.Generic.Menu");
 
             Options.Add(setOption("func1",'1',true,func1));
             Options.Add(setOption("func2",'2',true,func2));
